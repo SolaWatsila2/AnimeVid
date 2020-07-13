@@ -5,4 +5,4 @@
   <Title>AnimeVid</tittle>
 
 
-<video src="videoplayback.mp4" controls>
+<video src="https://cdna-2.cdnfile.info/user1342/334ad94b40fc4b6f8544e1dba4e861e4/EP.1.1080p.mp4?token=Qn03W-r9EV63dsu1cHBn9A&expires=1594679068&id=124887" controls>
